@@ -23,7 +23,7 @@ Each project has a README — start with:
 See each repo README for env vars and sample data.
 
 ## Contact
-- LinkedIn: in/kamlesh-baviskar  
+- LinkedIn: [in/kamlesh-baviskar  ](https://www.linkedin.com/in/kamlesh-baviskar/)
 - Email: ksb17219@gmail.com
 
 If you want a guided walkthrough of any repo, ping me — happy to explain architecture or walk through code.
