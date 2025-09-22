@@ -4,16 +4,13 @@ Hi — I’m Kamlesh. I build backend systems and full-stack demos using Java, S
 
 ## What you'll find
 - ✅ Full-stack skeleton: Spring Boot (REST + JWT) + MySQL backend + React frontend  
-- ✅ Enterprise demo: client/inventory/sales modules (screenshots & sample data)  
+- ✅ Enterprise demo
 - ✅ Frontend projects: React apps bootstrapped with modern tooling  
-- ✅ Smaller experiments and learning notebooks (data science / ML exploration)
 
 ## Highlighted projects
 - **Full-Stack-Spring-Boot-React-** — basic, deployable skeleton for apps (backend + React front-end).  
 - **Enterprise-Demo-Web-Application** — Spring Boot enterprise demo with screenshots showing client and inventory flows.  
 - **sinchan-react-frontend** + **sinchan-spring-backend** — example frontend + backend pair for a small product.
-
-*(Pinned repos on my profile link to these demos and setup instructions.)*
 
 ## Tech stack
 Java • Spring Boot • Spring Security • REST • JWT • MySQL • React • JavaScript • HTML/CSS
@@ -27,6 +24,6 @@ See each repo README for env vars and sample data.
 
 ## Contact
 - LinkedIn: in/kamlesh-baviskar  
-- Email: (add your preferred contact email here)
+- Email: ksb17219@gmail.com
 
 If you want a guided walkthrough of any repo, ping me — happy to explain architecture or walk through code.
