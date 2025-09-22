@@ -1,16 +1,32 @@
-## Hi there 👋
+# Kamlesh Baviskar — Software Engineer (Java | Spring Boot | React)
 
-<!--
-**annonymous-axe/annonymous-axe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi — I’m Kamlesh. I build backend systems and full-stack demos using Java, Spring Boot, REST APIs, MySQL and React. This repo is a quick landing page for my work: short highlights, how to run demos and where to find contact info.
 
-Here are some ideas to get you started:
+## What you'll find
+- ✅ Full-stack skeleton: Spring Boot (REST + JWT) + MySQL backend + React frontend  
+- ✅ Enterprise demo: client/inventory/sales modules (screenshots & sample data)  
+- ✅ Frontend projects: React apps bootstrapped with modern tooling  
+- ✅ Smaller experiments and learning notebooks (data science / ML exploration)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlighted projects
+- **Full-Stack-Spring-Boot-React-** — basic, deployable skeleton for apps (backend + React front-end).  
+- **Enterprise-Demo-Web-Application** — Spring Boot enterprise demo with screenshots showing client and inventory flows.  
+- **sinchan-react-frontend** + **sinchan-spring-backend** — example frontend + backend pair for a small product.
+
+*(Pinned repos on my profile link to these demos and setup instructions.)*
+
+## Tech stack
+Java • Spring Boot • Spring Security • REST • JWT • MySQL • React • JavaScript • HTML/CSS
+
+## How to run / try
+Each project has a README — start with:
+1. Clone repo → `git clone <repo-url>`
+2. Backend: `./mvnw spring-boot:run` (or import into IDE)  
+3. Frontend: `yarn` / `yarn start` or `npm install` / `npm start`  
+See each repo README for env vars and sample data.
+
+## Contact
+- LinkedIn: in/kamlesh-baviskar  
+- Email: (add your preferred contact email here)
+
+If you want a guided walkthrough of any repo, ping me — happy to explain architecture or walk through code.
